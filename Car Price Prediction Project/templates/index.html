@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Price Prediction in Afghanistan</title>
+    <link rel="shortcut icon" href="../static/images/logo.png">
+    <link rel="stylesheet" href="../static/css/style.css">
+</head>
+<body>
+    <div id="mainContainer">
+        <div id="imageContainer">
+            <nav>
+                <img src="../static/images/baby-car.png" alt="" height="100px">
+                <h1>Car Price Prediction in Afghanistan</h1>
+            </nav>
+            <ul>
+                <li><a href="https://www.facebook.com/groups/1695167730705229/permalink/3735341556687826/?sale_post_id=3735341556687826&mibextid=W9rl1R"><img src="../static/images/facebook.png" alt="facebook-image"></a></li>
+                <li><a href="https://instagram.com/motar_froshi_?igshid=OGQ5ZDc2ODk2ZA=="><img src="../static/images/instagram.png" alt="instagram-image"></a></li>
+                <li><a href="https://x.com/javeed98579061?s=11&t=lE8SZxhQL9gbuOn7FX-Ejg"><img src="../static/images/twitter.png" alt="twitter-image"></a></li>
+                <li><a href="https://youtube.com/@carshopping?si=dpTWP_wrKVwuh5Bq"><img src="../static/images/youtube.png" alt="youtube-image"></a></li>
+            </ul>
+        </div>
+        <div id="inputsContainer">
+            <form action="predict" method="POST">
+                <div class="form-selection">
+                    <div class="selection">
+                        <label>Select Car Model</label><br>
+                        <select class="selectpicker" name="car-name" id="car-name">
+                            <option value="">Select Car Model</option>
+                            {% for key, value in carName.items() %}
+                                <option {% if value == car %}selected{% endif %} value="{{ value }}">{{ key }}</option>
+                            {% endfor %} 
+                        </select>
+                    </div>
+                    <div class="selection">
+                        <label>Select Car Company</label>
+                        <select class="selectpicker" name="company" id="company">
+                            <option value="4">Toyota</option>
+                            <option value="0">Jagur Lang Rover</option>
+                        </select>
+                    </div>
+                    <div class="selection">
+                        <label>Select Model Year</label>
+                        <select class="selectpicker" name="year" id="year">
+                            <option value="2004">2000</option>
+                            <option value="2005">2001</option>
+                            <option value="2006">2002</option>
+                            <option value="2007">2003</option> 
+                        </select>
+                    </div>
+                    <div class="selection">
+                        <label>Select Model Color</label>
+                        <select class="selectpicker" name="color" id="color">
+                            <option value="0">Black</option>
+                            <option value="7">White</option>
+                            <option value="5">Selver</option>
+                            <option value="3">Gold</option>
+                        </select>
+                    </div>
+                    <div class="selection">
+                        <label>Select Model HandType</label>
+                        <select class="selectpicker" name="hand" id="hand">
+                            <option value="0">Left</option>
+                            <option value="1">Right</option>
+                        </select>
+                    </div>
+                   <div class="selection">
+                        <label>Select Model EngineType</label>
+                        <select class="selectpicker" name="engine" id="engine">
+                            <option value="0">4 Saland</option>
+                            <option value="1">5 Saland</option>
+                            <option value="2">6 Saland</option>
+                            <option value="3">8 Saland</option>
+                        </select>
+                   </div>
+                    <div class="selection">
+                        <label>Select Model Transmission Type</label>
+                        <select class="selectpicker" name="transmission" id="transmission">
+                            <option value="0">Automatic</option>
+                            <option value="1">Manual</option>
+                        </select> 
+                    </div>          
+                    <div class="selection">
+                        <label>Select Model Fuel_Type</label>
+                        <select class="selectpicker" name="fuel_type" id="fuel_type">
+                            <option value="2">Petrol</option>
+                            <option value="0">Diesel</option>
+                            <option value="1">Hybrid</option>
+                        </select>
+                    </div>
+                </div>
+                <button class="selectpicker button" type="submit">Price Predict</button>
+                <input class="selectpicker" type="text" value="{{ predictData }} {{ error }}" id="result" disabled><span class="sign">$</span>
+            </form>
+        </div>
+    </div>
+</body>
+<script src="static/js/jquery-3.6.4.min.js"></script>
+<script src="static/js/index.js"></script>
+</html>

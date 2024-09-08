@@ -1,0 +1,515 @@
+name,company,year,price($),color,hand,engine(saland),transmission,fuel_type
+lexus lx570,lexus,2007,30000,white,left,8 saland,automatic,petrol
+lexus lx570,lexus,2007,28000,black,left,8 saland,automatic,petrol
+lexus lx570,lexus,2007,27000,crimson,left,8 saland,automatic,petrol
+lexus lx570,lexus,2008,32000,white,left,8 saland,automatic,petrol
+lexus lx570,lexus,2008,30000,black,left,8 saland,automatic,petrol
+lexus lx570,lexus,2008,28500,crimson,left,8 saland,automatic,petrol
+lexus lx570,lexus,2009,35000,white,left,8 saland,automatic,petrol
+lexus lx570,lexus,2009,33000,black,left,8 saland,automatic,petrol
+lexus lx570,lexus,2010,37000,white,left,8 saland,automatic,petrol
+lexus lx570,lexus,2010,35000,black,left,8 saland,automatic,petrol
+lexus lx570,lexus,2011,38000,white,left,8 saland,automatic,petrol
+lexus lx570,lexus,2011,39500,black,left,8 saland,automatic,petrol
+lexus lx570,lexus,2012,40000,white,left,8 saland,automatic,petrol
+lexus lx570,lexus,2012,41500,black,left,8 saland,automatic,petrol
+lexus lx570,lexus,2013,41000,white,left,8 saland,automatic,petrol
+lexus lx570,lexus,2013,43000,black,left,8 saland,automatic,petrol
+lexus lx570,lexus,2014,41500,white,left,8 saland,automatic,petrol
+lexus lx570,lexus,2014,44000,black,left,8 saland,automatic,petrol
+lexus lx570,lexus,2015,43000,white,left,8 saland,automatic,petrol
+lexus lx570,lexus,2015,45000,black,left,8 saland,automatic,petrol
+lexus lx570,lexus,2016,44000,white,left,8 saland,automatic,petrol
+lexus lx570,lexus,2016,46000,black,left,8 saland,automatic,petrol
+lexus lx570,lexus,2017,45000,white,left,8 saland,automatic,petrol
+lexus lx570,lexus,2017,47500,black,left,8 saland,automatic,petrol
+lexus lx570,lexus,2019,47000,white,left,8 saland,automatic,petrol
+lexus lx570,lexus,2019,48500,black,left,8 saland,automatic,petrol
+lexus lx570,lexus,2020,47500,white,left,8 saland,automatic,petrol
+lexus lx570,lexus,2020,49500,black,left,8 saland,automatic,petrol
+lexus lx570,lexus,2021,48000,white,left,8 saland,automatic,petrol
+lexus lx570,lexus,2021,50000,black,left,8 saland,automatic,petrol
+lexus lx570,lexus,2022,52500,white,left,8 saland,automatic,petrol
+lexus lx570,lexus,2022,54000,black,left,8 saland,automatic,petrol
+range rover,jagur land rover,2004,9500,white,left,6 saland,automatic,petrol
+range rover,jagur land rover,2004,10500,black,left,6 saland,automatic,petrol
+range rover,jagur land rover,2005,10000,white,left,6 saland,automatic,petrol
+range rover,jagur land rover,2005,11000,black,left,6 saland,automatic,petrol
+range rover,jagur land rover,2006,11000,white,left,6 saland,automatic,petrol
+range rover,jagur land rover,2006,11500,black,left,6 saland,automatic,petrol
+range rover,jagur land rover,2007,11000,white,left,6 saland,automatic,petrol
+range rover,jagur land rover,2007,12000,black,left,6 saland,automatic,petrol
+range rover,jagur land rover,2008,11000,white,left,6 saland,automatic,petrol
+range rover,jagur land rover,2008,12000,black,left,6 saland,automatic,petrol
+range rover,jagur land rover,2009,11000,white,left,6 saland,automatic,petrol
+range rover,jagur land rover,2009,12000,black,left,6 saland,automatic,petrol
+range rover,jagur land rover,2010,12000,white,left,6 saland,automatic,petrol
+range rover,jagur land rover,2010,12500,black,left,8 saland,automatic,petrol
+range rover,jagur land rover,2011,12000,white,left,8 saland,automatic,petrol
+range rover,jagur land rover,2011,13000,black,left,8 saland,automatic,petrol
+range rover,jagur land rover,2012,12000,white,left,8 saland,automatic,petrol
+range rover,jagur land rover,2012,13100,black,left,8 saland,automatic,petrol
+range rover,jagur land rover,2013,14000,white,left,8 saland,automatic,petrol
+range rover,jagur land rover,2013,15000,black,left,8 saland,automatic,petrol
+range rover,jagur land rover,2014,16000,white,left,8 saland,automatic,petrol
+range rover,jagur land rover,2014,18500,black,left,8 saland,automatic,petrol
+range rover,jagur land rover,2015,19500,white,left,8 saland,automatic,petrol
+range rover,jagur land rover,2015,23500,black,left,8 saland,automatic,petrol
+range rover,jagur land rover,2016,27000,white,left,8 saland,automatic,petrol
+range rover,jagur land rover,2016,28000,black,left,8 saland,automatic,petrol
+range rover,jagur land rover,2017,29000,white,left,8 saland,automatic,petrol
+range rover,jagur land rover,2017,30000,black,left,8 saland,automatic,petrol
+range rover,jagur land rover,2018,30000,white,left,8 saland,automatic,petrol
+range rover,jagur land rover,2018,32500,black,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2000,4800,white,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2000,4300,black,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2000,4000,crimson,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2001,5000,white,left,6 saland,automatic,petrol
+toyota land cruiser,toyota,2001,4800,black,left,6 saland,automatic,petrol
+toyota land cruiser,toyota,2001,4600,crimson,left,6 saland,automatic,petrol
+toyota land cruiser,toyota,2002,5200,white,left,6 saland,automatic,petrol
+toyota land cruiser,toyota,2002,4900,black,left,6 saland,automatic,petrol
+toyota land cruiser,toyota,2002,4800,crimson,left,6 saland,automatic,petrol
+toyota land cruiser,toyota,2003,5400,white,left,6 saland,automatic,petrol
+toyota land cruiser,toyota,2003,5200,black,left,6 saland,automatic,petrol
+toyota land cruiser,toyota,2003,5000,crimson,left,6 saland,automatic,petrol
+toyota land cruiser,toyota,2004,5900,white,left,6 saland,automatic,petrol
+toyota land cruiser,toyota,2004,5500,black,left,6 saland,automatic,petrol
+toyota land cruiser,toyota,2004,5400,crimson,left,6 saland,automatic,petrol
+toyota land cruiser,toyota,2005,6200,white,left,6 saland,automatic,petrol
+toyota land cruiser,toyota,2005,6000,black,left,6 saland,automatic,petrol
+toyota land cruiser,toyota,2006,6400,white,left,6 saland,automatic,petrol
+toyota land cruiser,toyota,2006,6100,black,left,6 saland,automatic,petrol
+toyota land cruiser,toyota,2007,6500,white,left,6 saland,automatic,petrol
+toyota land cruiser,toyota,2007,6000,black,left,6 saland,automatic,petrol
+toyota land cruiser,toyota,2008,7500,white,left,6 saland,automatic,petrol
+toyota land cruiser,toyota,2008,8500,black,left,6 saland,automatic,petrol
+toyota land cruiser,toyota,2009,9000,white,left,6 saland,automatic,petrol
+toyota land cruiser,toyota,2009,10000,black,left,6 saland,automatic,petrol
+toyota land cruiser,toyota,2010,11000,white,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2010,12000,black,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2011,13000,white,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2011,14000,black,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2012,14000,white,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2012,15000,black,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2013,16000,white,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2013,17000,black,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2014,18000,white,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2014,19000,black,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2015,19000,white,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2015,20000,black,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2016,22000,white,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2016,23000,black,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2017,24000,white,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2017,26000,black,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2018,28000,white,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2018,29000,black,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2019,33000,white,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2019,35000,black,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2020,38000,white,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2020,42000,black,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2021,46500,white,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2021,47000,black,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2022,48500,white,left,8 saland,automatic,petrol
+toyota land cruiser,toyota,2022,50000,black,left,8 saland,automatic,petrol
+4 runner ,toyota,2003,4500,white,left,6 saland,automatic,petrol
+4 runner ,toyota,2003,4000,black,left,6 saland,automatic,petrol
+4 runner ,toyota,2004,5000,white,left,6 saland,automatic,petrol
+4 runner ,toyota,2004,5500,black,left,6 saland,automatic,petrol
+4 runner ,toyota,2005,5500,white,left,6 saland,automatic,petrol
+4 runner ,toyota,2005,6500,black,left,6 saland,automatic,petrol
+4 runner ,toyota,2006,7500,white,left,6 saland,automatic,petrol
+4 runner ,toyota,2006,8500,black,left,6 saland,automatic,petrol
+4 runner ,toyota,2006,7000,crimson,left,6 saland,automatic,petrol
+4 runner ,toyota,2006,7000,navy blue,left,6 saland,automatic,petrol
+4 runner ,toyota,2007,9000,white,left,6 saland,automatic,petrol
+4 runner ,toyota,2007,10000,black,left,6 saland,automatic,petrol
+4 runner ,toyota,2007,8500,crimson,left,6 saland,automatic,petrol
+4 runner ,toyota,2007,8500,navy blue,left,6 saland,automatic,petrol
+4 runner ,toyota,2008,10500,white,left,6 saland,automatic,petrol
+4 runner ,toyota,2008,12000,black,left,6 saland,automatic,petrol
+4 runner ,toyota,2008,10000,crimson,left,6 saland,automatic,petrol
+4 runner ,toyota,2008,10000,navy blue,left,6 saland,automatic,petrol
+4 runner ,toyota,2009,12000,white,left,6 saland,automatic,petrol
+4 runner ,toyota,2009,13500,black,left,6 saland,automatic,petrol
+4 runner ,toyota,2009,11100,crimson,left,6 saland,automatic,petrol
+4 runner ,toyota,2009,11200,navy blue,left,6 saland,automatic,petrol
+4 runner ,toyota,2010,14000,white,left,6 saland,automatic,petrol
+4 runner ,toyota,2010,14500,black,left,6 saland,automatic,petrol
+4 runner ,toyota,2011,14500,white,left,6 saland,automatic,petrol
+4 runner ,toyota,2011,15000,black,left,6 saland,automatic,petrol
+4 runner ,toyota,2012,15000,white,left,6 saland,automatic,petrol
+4 runner ,toyota,2012,15500,black,left,6 saland,automatic,petrol
+4 runner ,toyota,2013,16000,white,left,6 saland,automatic,petrol
+4 runner ,toyota,2013,17000,black,left,6 saland,automatic,petrol
+4 runner ,toyota,2014,18000,white,left,6 saland,automatic,petrol
+4 runner ,toyota,2014,19000,black,left,6 saland,automatic,petrol
+4 runner ,toyota,2015,20000,white,left,6 saland,automatic,petrol
+4 runner ,toyota,2015,22000,black,left,6 saland,automatic,petrol
+4 runner ,toyota,2016,23000,white,left,6 saland,automatic,petrol
+4 runner ,toyota,2016,25000,black,left,6 saland,automatic,petrol
+4 runner ,toyota,2017,27000,white,left,6 saland,automatic,petrol
+4 runner ,toyota,2017,30000,black,left,6 saland,automatic,petrol
+4 runner ,toyota,2018,29000,white,left,6 saland,automatic,petrol
+4 runner ,toyota,2018,32000,black,left,6 saland,automatic,petrol
+toyota hilux,toyota,2000,4800,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2000,4700,black,left,4 saland,manual,diesel
+toyota hilux,toyota,2001,5300,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2001,5200,black,left,4 saland,manual,diesel
+toyota hilux,toyota,2002,5800,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2002,5300,black,left,4 saland,manual,diesel
+toyota hilux,toyota,2003,6100,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2003,5700,black,left,4 saland,manual,diesel
+toyota hilux,toyota,2004,6800,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2004,6400,black,left,4 saland,manual,diesel
+toyota hilux,toyota,2005,8000,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2005,9000,black,left,4 saland,manual,diesel
+toyota hilux,toyota,2005,7500,gold,left,4 saland,manual,diesel
+toyota hilux,toyota,2005,7500,crimson,left,4 saland,manual,diesel
+toyota hilux,toyota,2006,10000,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2006,11000,black,left,4 saland,manual,diesel
+toyota hilux,toyota,2006,9500,gold,left,4 saland,manual,diesel
+toyota hilux,toyota,2006,7300,crimson,left,4 saland,manual,diesel
+toyota hilux,toyota,2007,11000,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2007,12000,black,left,4 saland,manual,diesel
+toyota hilux,toyota,2007,10500,gold,left,4 saland,manual,diesel
+toyota hilux,toyota,2007,10200,crimson,left,4 saland,manual,diesel
+toyota hilux,toyota,2008,12000,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2008,13000,black,left,4 saland,manual,diesel
+toyota hilux,toyota,2008,11500,gold,left,4 saland,manual,diesel
+toyota hilux,toyota,2008,11300,crimson,left,4 saland,manual,diesel
+toyota hilux,toyota,2009,12000,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2009,13000,black,left,4 saland,manual,diesel
+toyota hilux,toyota,2009,11700,gold,left,4 saland,manual,diesel
+toyota hilux,toyota,2009,11500,crimson,left,4 saland,manual,diesel
+toyota hilux,toyota,2010,13000,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2010,14000,black,left,4 saland,manual,diesel
+toyota hilux,toyota,2010,12400,gold,left,4 saland,manual,diesel
+toyota hilux,toyota,2010,11900,crimson,left,4 saland,manual,diesel
+toyota hilux,toyota,2011,14000,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2011,15000,black,left,4 saland,manual,diesel
+toyota hilux,toyota,2011,13500,gold,left,4 saland,manual,diesel
+toyota hilux,toyota,2011,13100,crimson,left,4 saland,manual,diesel
+toyota hilux,toyota,2012,15000,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2012,16000,black,left,4 saland,manual,diesel
+toyota hilux,toyota,2013,15500,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2013,16500,black,left,4 saland,manual,diesel
+toyota hilux,toyota,2014,16000,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2014,17000,black,left,4 saland,manual,diesel
+toyota hilux,toyota,2015,16500,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2015,17500,black,left,4 saland,manual,diesel
+toyota hilux,toyota,2016,17000,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2016,18000,black,left,4 saland,manual,diesel
+toyota hilux,toyota,2017,17500,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2017,18500,black,left,4 saland,manual,diesel
+toyota hilux,toyota,2018,18500,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2018,19500,black,left,4 saland,manual,diesel
+toyota hilux,toyota,2019,19000,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2019,20500,black,left,4 saland,manual,diesel
+toyota hilux,toyota,2020,20000,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2020,22000,black,left,4 saland,manual,diesel
+toyota hilux,toyota,2021,21000,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2021,24000,black,left,4 saland,manual,diesel
+toyota hilux,toyota,2022,24000,white,left,4 saland,manual,diesel
+toyota hilux,toyota,2022,31000,black,left,4 saland,manual,diesel
+benz,mercedes benz,2000,3000,white,left,4 saland,manual,petrol
+benz,mercedes benz,2000,2800,black,left,4 saland,manual,petrol
+benz,mercedes benz,2000,2700,silver,left,4 saland,manual,petrol
+benz,mercedes benz,2000,2500,gold,left,4 saland,manual,petrol
+benz,mercedes benz,2001,3500,white,left,6 saland,automatic,petrol
+benz,mercedes benz,2001,3300,black,left,6 saland,automatic,petrol
+benz,mercedes benz,2001,3200,silver,left,6 saland,automatic,petrol
+benz,mercedes benz,2001,3000,gold,left,6 saland,automatic,petrol
+benz,mercedes benz,2002,4000,white,left,6 saland,automatic,petrol
+benz,mercedes benz,2002,3700,black,left,6 saland,automatic,petrol
+benz,mercedes benz,2002,3500,silver,left,6 saland,automatic,petrol
+benz,mercedes benz,2002,3300,gold,left,6 saland,automatic,petrol
+benz,mercedes benz,2003,4500,white,left,6 saland,automatic,petrol
+benz,mercedes benz,2003,4100,black,left,6 saland,automatic,petrol
+benz,mercedes benz,2003,3900,silver,left,6 saland,automatic,petrol
+benz,mercedes benz,2003,3600,gold,left,6 saland,automatic,petrol
+benz,mercedes benz,2004,5200,white,left,6 saland,automatic,petrol
+benz,mercedes benz,2004,3900,black,left,6 saland,automatic,petrol
+benz,mercedes benz,2005,5500,white,left,6 saland,automatic,petrol
+benz,mercedes benz,2005,5300,black,left,6 saland,automatic,petrol
+benz,mercedes benz,2005,5100,silver,left,6 saland,automatic,petrol
+benz,mercedes benz,2006,6000,white,left,6 saland,automatic,petrol
+benz,mercedes benz,2006,5800,black,left,6 saland,automatic,petrol
+benz,mercedes benz,2007,6300,white,left,6 saland,automatic,petrol
+benz,mercedes benz,2007,6000,black,left,6 saland,automatic,petrol
+benz,mercedes benz,2008,6700,white,left,6 saland,automatic,petrol
+benz,mercedes benz,2008,6500,black,left,6 saland,automatic,petrol
+benz,mercedes benz,2009,7000,white,left,6 saland,automatic,petrol
+benz,mercedes benz,2009,6800,black,left,6 saland,automatic,petrol
+benz,mercedes benz,2010,7500,white,left,6 saland,automatic,petrol
+benz,mercedes benz,2010,7200,black,left,6 saland,automatic,petrol
+benz,mercedes benz,2011,8500,white,left,6 saland,automatic,petrol
+benz,mercedes benz,2011,7700,black,left,6 saland,automatic,petrol
+benz,mercedes benz,2012,9500,white,left,6 saland,automatic,diesel
+benz,mercedes benz,2012,8500,black,left,6 saland,automatic,diesel
+benz,mercedes benz,2013,10500,white,left,6 saland,automatic,petrol
+benz,mercedes benz,2013,9500,black,left,6 saland,automatic,petrol
+benz,mercedes benz,2014,11500,white,left,6 saland,automatic,diesel
+benz,mercedes benz,2014,10500,black,left,6 saland,automatic,diesel
+benz,mercedes benz,2014,10300,silver,left,6 saland,automatic,diesel
+benz,mercedes benz,2015,12500,white,left,6 saland,automatic,petrol
+benz,mercedes benz,2015,11500,black,left,6 saland,automatic,petrol
+benz,mercedes benz,2015,11200,silver,left,6 saland,automatic,petrol
+benz,mercedes benz,2016,14500,white,left,6 saland,automatic,diesel
+benz,mercedes benz,2016,13500,black,left,6 saland,automatic,diesel
+benz,mercedes benz,2017,16500,white,left,6 saland,automatic,petrol
+benz,mercedes benz,2017,15500,black,left,6 saland,automatic,petrol
+benz,mercedes benz,2018,17500,white,left,6 saland,automatic,diesel
+benz,mercedes benz,2018,16500,black,left,6 saland,automatic,diesel
+benz,mercedes benz,2019,18500,white,left,6 saland,automatic,petrol
+benz,mercedes benz,2019,17500,black,left,6 saland,automatic,petrol
+benz,mercedes benz,2020,20000,white,left,6 saland,automatic,diesel
+benz,mercedes benz,2020,19000,black,left,6 saland,automatic,diesel
+benz,mercedes benz,2020,18500,silver,left,6 saland,automatic,diesel
+benz,mercedes benz,2021,21500,white,left,6 saland,automatic,petrol
+benz,mercedes benz,2022,23000,white,left,6 saland,automatic,diesel
+benz,mercedes benz,2022,22000,black,left,6 saland,automatic,diesel
+mercedes istana,mercedes benz,2000,1400,white,left,5 saland,manual,diesel
+mercedes istana,mercedes benz,2000,1300,silver,left,5 saland,manual,diesel
+mercedes istana,mercedes benz,2000,1300,yellow,left,5 saland,manual,diesel
+mercedes istana,mercedes benz,2001,1800,white,left,5 saland,manual,diesel
+mercedes istana,mercedes benz,2001,1500,yellow,left,5 saland,manual,diesel
+mercedes istana,mercedes benz,2002,2200,white,left,5 saland,manual,diesel
+mercedes istana,mercedes benz,2002,2000,silver,left,5 saland,manual,diesel
+mercedes istana,mercedes benz,2002,1800,yellow,left,5 saland,manual,diesel
+mercedes istana,mercedes benz,2003,2800,white,left,5 saland,manual,diesel
+mercedes istana,mercedes benz,2003,2500,silver,left,5 saland,manual,diesel
+mercedes istana,mercedes benz,2003,2300,yellow,left,5 saland,manual,diesel
+mercedes istana,mercedes benz,2004,3200,white,left,5 saland,manual,diesel
+mercedes istana,mercedes benz,2004,2700,yellow,left,5 saland,manual,diesel
+mercedes istana,mercedes benz,2005,3500,white,left,5 saland,manual,diesel
+mercedes istana,mercedes benz,2005,3100,yellow,left,5 saland,manual,diesel
+mercedes istana,mercedes benz,2006,4000,white,left,5 saland,manual,diesel
+toyota corolla fielder,toyota,2000,3800,white,left,4 saland,manual,petrol
+toyota corolla fielder,toyota,2000,3300,black,left,4 saland,manual,petrol
+toyota corolla fielder,toyota,2000,3100,silver,left,4 saland,manual,petrol
+toyota corolla fielder,toyota,2000,3000,crimson,left,4 saland,manual,petrol
+toyota corolla fielder,toyota,2001,4700,white,left,4 saland,manual,petrol
+toyota corolla fielder,toyota,2001,4300,black,left,4 saland,manual,petrol
+toyota corolla fielder,toyota,2001,4000,silver,left,4 saland,manual,petrol
+toyota corolla fielder,toyota,2002,5500,white,left,4 saland,manual,petrol
+toyota corolla fielder,toyota,2002,5000,silver,left,4 saland,manual,petrol
+toyota corolla fielder,toyota,2003,6500,white,left,4 saland,manual,petrol
+toyota corolla fielder,toyota,2003,6000,silver,left,4 saland,manual,petrol
+toyota corolla fielder,toyota,2003,5700,crimson,left,4 saland,manual,petrol
+toyota corolla fielder,toyota,2004,7500,white,left,4 saland,manual,petrol
+toyota corolla fielder,toyota,2004,7000,black,left,4 saland,manual,petrol
+toyota corolla fielder,toyota,2004,6900,silver,left,4 saland,manual,petrol
+toyota corolla fielder,toyota,2005,8000,white,left,4 saland,automatic,petrol
+toyota corolla fielder,toyota,2005,7500,silver,left,4 saland,automatic,petrol
+toyota corolla fielder,toyota,2005,7300,crimson,left,4 saland,automatic,petrol
+toyota corolla fielder,toyota,2006,9000,white,left,4 saland,automatic,petrol
+toyota corolla fielder,toyota,2006,8500,silver,left,4 saland,automatic,petrol
+toyota corolla fielder,toyota,2008,9500,white,right,4 saland,automatic,petrol
+toyota corolla fielder,toyota,2008,9000,black,right,4 saland,automatic,petrol
+toyota corolla fielder,toyota,2008,8800,silver,right,4 saland,automatic,petrol
+toyota corolla fielder,toyota,2008,8500,crimson,right,4 saland,automatic,petrol
+toyota corolla fielder,toyota,2009,10000,white,right,4 saland,automatic,petrol
+toyota corolla fielder,toyota,2009,9700,black,right,4 saland,automatic,petrol
+toyota corolla fielder,toyota,2009,9500,silver,right,4 saland,automatic,petrol
+toyota corolla fielder,toyota,2010,10500,white,right,4 saland,automatic,petrol
+toyota corolla fielder,toyota,2010,10000,black,right,4 saland,automatic,petrol
+toyota corolla fielder,toyota,2010,9800,silver,right,4 saland,automatic,petrol
+toyota corolla fielder,toyota,2011,11500,white,right,4 saland,automatic,petrol
+toyota corolla fielder,toyota,2011,11000,black,right,4 saland,automatic,petrol
+toyota corolla fielder,toyota,2011,11000,silver,right,4 saland,automatic,petrol
+toyota corolla fielder,toyota,2012,12500,white,right,4 saland,automatic,petrol
+toyota corolla fielder,toyota,2013,13500,white,right,4 saland,automatic,petrol
+toyota corolla fielder,toyota,2013,13000,silver,right,4 saland,automatic,petrol
+toyota corolla fielder,toyota,2014,14500,white,right,4 saland,automatic,petrol
+toyota corolla fielder,toyota,2014,14000,silver,right,4 saland,automatic,petrol
+suzuki,suzuki,1991,950,white,left,4 saland,manual,petrol
+suzuki,suzuki,1991,900,crimson,left,4 saland,manual,petrol
+suzuki,suzuki,1991,900,red,left,4 saland,manual,petrol
+suzuki,suzuki,1992,1400,white,left,4 saland,manual,petrol
+suzuki,suzuki,1992,1300,black,left,4 saland,manual,petrol
+suzuki,suzuki,1992,1200,crimson,left,4 saland,manual,petrol
+suzuki,suzuki,1993,1700,white,left,4 saland,manual,petrol
+suzuki,suzuki,1993,1600,black,left,4 saland,manual,petrol
+suzuki,suzuki,1993,1500,silver,left,4 saland,manual,petrol
+suzuki,suzuki,1993,1500,crimson,left,4 saland,manual,petrol
+suzuki,suzuki,1993,1500,red,left,4 saland,manual,petrol
+suzuki,suzuki,1994,1900,white,left,4 saland,manual,petrol
+suzuki,suzuki,1994,1800,black,left,4 saland,manual,petrol
+suzuki,suzuki,1994,1700,crimson,left,4 saland,manual,petrol
+suzuki,suzuki,1994,1700,red,left,4 saland,manual,petrol
+suzuki,suzuki,1995,2300,white,left,4 saland,manual,petrol
+suzuki,suzuki,1995,2200,black,left,4 saland,manual,petrol
+suzuki,suzuki,1995,2200,crimson,left,4 saland,manual,petrol
+suzuki,suzuki,1996,3200,white,left,4 saland,manual,petrol
+suzuki,suzuki,1996,3000,silver,left,4 saland,manual,petrol
+suzuki,suzuki,1996,3000,crimson,left,4 saland,manual,petrol
+suzuki,suzuki,1997,4000,white,left,4 saland,manual,petrol
+suzuki,suzuki,1997,3500,silver,left,4 saland,manual,petrol
+suzuki,suzuki,1997,3500,crimson,left,4 saland,manual,petrol
+toyota coaster,toyota,1992,9500,white,left,4 saland,manual,petrol
+toyota coaster,toyota,1992,9100,crimson,left,4 saland,manual,petrol
+toyota coaster,toyota,1992,9300,blue,left,4 saland,manual,petrol
+toyota coaster,toyota,1993,10500,white,left,4 saland,manual,petrol
+toyota coaster,toyota,1993,10000,crimson,left,4 saland,manual,petrol
+toyota coaster,toyota,1993,9900,blue,left,4 saland,manual,petrol
+toyota coaster,toyota,1993,9800,yellow,left,4 saland,manual,petrol
+toyota coaster,toyota,1994,11500,white,left,4 saland,manual,petrol
+toyota coaster,toyota,1994,11200,blue,left,4 saland,manual,petrol
+toyota coaster,toyota,1995,12500,white,left,4 saland,manual,petrol
+toyota coaster,toyota,1995,12300,blue,left,4 saland,manual,petrol
+toyota coaster,toyota,1996,13500,white,left,4 saland,manual,petrol
+toyota coaster,toyota,1996,13300,blue,left,4 saland,manual,petrol
+toyota coaster,toyota,1997,14500,white,left,4 saland,manual,petrol
+toyota hiace,toyota,2000,7900,white,left,4 saland,manual,petrol
+toyota hiace,toyota,2002,8800,white,left,4 saland,manual,petrol
+toyota hiace,toyota,2003,9400,white,left,4 saland,manual,petrol
+toyota hiace,toyota,2004,9800,white,left,4 saland,manual,petrol
+toyota hiace,toyota,2005,10300,white,left,4 saland,manual,petrol
+toyota hiace,toyota,2006,10800,white,left,4 saland,manual,petrol
+toyota hiace,toyota,2007,11300,white,left,4 saland,manual,petrol
+toyota hiace,toyota,2008,11800,white,left,4 saland,manual,petrol
+toyota hiace,toyota,2009,12300,white,left,4 saland,manual,petrol
+toyota hiace,toyota,2010,12900,white,left,4 saland,manual,petrol
+toyota hiace,toyota,2011,13800,white,left,4 saland,manual,petrol
+toyota hiace,toyota,2012,15000,white,left,4 saland,manual,petrol
+toyota hiace,toyota,2016,20700,white,left,4 saland,manual,petrol
+toyota hiace,toyota,2017,22500,white,left,4 saland,manual,petrol
+toyota hiace,toyota,2018,24000,white,left,4 saland,manual,petrol
+toyota prius hybrid,toyota,2007,3800,white,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2007,3400,black,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2007,3200,silver,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2007,3100,crimson,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2008,4200,white,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2008,4000,black,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2008,3700,crimson,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2009,4700,white,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2009,4400,black,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2009,4000,crimson,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2010,5700,white,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2010,5400,black,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2011,6800,white,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2011,6400,black,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2012,7700,white,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2012,7300,black,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2013,8800,white,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2013,8400,black,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2014,9500,white,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2014,9300,black,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2015,10500,white,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2015,10300,black,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2016,12500,white,right,4 saland,automatic,hybrid
+toyota prius hybrid,toyota,2016,12000,black,right,4 saland,automatic,hybrid
+toyota corolla ,toyota,1993,2800,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,1993,2400,silver,left,4 saland,automatic,petrol
+toyota corolla ,toyota,1993,2300,crimson,left,4 saland,automatic,petrol
+toyota corolla ,toyota,1993,2300,gold,left,4 saland,automatic,petrol
+toyota corolla ,toyota,1993,2200,red,left,4 saland,automatic,petrol
+toyota corolla ,toyota,1994,3300,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,1994,2900,silver,left,4 saland,automatic,petrol
+toyota corolla ,toyota,1994,2800,crimson,left,4 saland,automatic,petrol
+toyota corolla ,toyota,1995,3800,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,1995,3500,silver,left,4 saland,automatic,petrol
+toyota corolla ,toyota,1995,3400,crimson,left,4 saland,automatic,petrol
+toyota corolla ,toyota,1995,3400,gold,left,4 saland,automatic,petrol
+toyota corolla ,toyota,1996,4200,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,1996,4000,silver,left,4 saland,automatic,petrol
+toyota corolla ,toyota,1996,3700,crimson,left,4 saland,automatic,petrol
+toyota corolla ,toyota,1996,3700,gold,left,4 saland,automatic,petrol
+toyota corolla ,toyota,1997,4800,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,1997,4500,silver,left,4 saland,automatic,petrol
+toyota corolla ,toyota,1997,4300,crimson,left,4 saland,automatic,petrol
+toyota corolla ,toyota,1997,4300,gold,left,4 saland,automatic,petrol
+toyota corolla hatchback,toyota,1994,2800,white,left,4 saland,manual,petrol
+toyota corolla hatchback,toyota,1994,2500,silver,left,4 saland,manual,petrol
+toyota corolla hatchback,toyota,1995,3100,white,left,4 saland,manual,petrol
+toyota corolla hatchback,toyota,1995,2800,silver,left,4 saland,manual,petrol
+toyota corolla hatchback,toyota,1995,2700,crimson,left,4 saland,manual,petrol
+toyota corolla hatchback,toyota,1995,2600,red,left,4 saland,manual,petrol
+toyota corolla hatchback,toyota,1996,3800,white,left,4 saland,manual,petrol
+toyota corolla hatchback,toyota,1996,3500,silver,left,4 saland,manual,petrol
+toyota corolla hatchback,toyota,1996,3200,crimson,left,4 saland,manual,petrol
+toyota corolla hatchback,toyota,1996,3000,red,left,4 saland,manual,petrol
+toyota corolla hatchback,toyota,1997,5800,white,left,4 saland,automatic,petrol
+toyota corolla hatchback,toyota,1997,5400,silver,left,4 saland,automatic,petrol
+toyota corolla hatchback,toyota,1997,5100,crimson,left,4 saland,automatic,petrol
+toyota corolla hatchback,toyota,1997,5000,red,left,4 saland,automatic,petrol
+toyota corolla hatchback,toyota,1998,7500,white,left,4 saland,automatic,petrol
+toyota corolla hatchback,toyota,1998,7300,silver,left,4 saland,automatic,petrol
+toyota corolla hatchback,toyota,1998,7000,crimson,left,4 saland,automatic,petrol
+toyota corolla hatchback,toyota,1998,6800,red,left,4 saland,automatic,petrol
+toyota corolla hatchback,toyota,1999,8500,white,left,4 saland,automatic,petrol
+toyota corolla hatchback,toyota,1999,8000,silver,left,4 saland,automatic,petrol
+toyota corolla hatchback,toyota,2000,8700,white,left,4 saland,automatic,petrol
+toyota corolla hatchback,toyota,2000,8400,silver,left,4 saland,automatic,petrol
+toyota corolla hatchback,toyota,2000,8400,crimson,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2000,5800,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2000,5200,black,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2000,5500,silver,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2000,4800,crimson,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2000,4700,gold,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2001,6000,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2001,5200,black,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2001,5600,silver,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2001,5000,crimson,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2001,4900,gold,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2002,6200,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2002,5600,black,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2002,6000,silver,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2003,6400,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2003,5800,black,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2003,6000,silver,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2003,5600,crimson,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2004,6800,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2004,6200,black,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2004,6400,silver,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2004,5700,gold,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2005,7800,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2005,6600,black,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2005,7100,silver,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2006,8700,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2006,7500,black,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2006,7800,silver,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2007,9800,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2007,8000,black,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2007,8300,silver,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2008,8300,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2008,7800,black,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2008,8000,silver,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2009,9300,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2009,9100,black,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2010,10500,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2011,11500,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2011,10300,black,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2012,11800,black,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2012,11500,silver,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2013,13500,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2013,12000,black,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2014,13000,black,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2014,13500,silver,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2015,15500,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2015,14800,silver,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2016,16000,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2016,13200,gold,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2017,16500,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2017,16000,silver,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2018,16000,black,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2019,18500,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2019,17500,black,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2019,18000,silver,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2020,20000,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2021,21500,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2021,20500,black,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2022,23000,white,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2022,21000,black,left,4 saland,automatic,petrol
+toyota corolla ,toyota,2022,19000,crimson,left,4 saland,automatic,petrol
+toyota townace,toyota,1993,2000,black,left,4 saland,automatic,diesel
+toyota townace,toyota,1993,1900,silver,left,4 saland,automatic,diesel
+toyota townace,toyota,1993,1500,crimson,left,4 saland,automatic,diesel
+toyota townace,toyota,1993,1500,gold,left,4 saland,automatic,diesel
+toyota townace,toyota,1993,1300,navy blue,left,4 saland,automatic,diesel
+toyota townace,toyota,1994,1500,navy blue,left,4 saland,automatic,diesel
+toyota townace,toyota,1995,2000,gold,left,4 saland,automatic,diesel
+toyota townace,toyota,1995,1800,navy blue,left,4 saland,automatic,diesel
+toyota townace,toyota,1996,2000,navy blue,left,4 saland,automatic,diesel
+toyota townace,toyota,1997,2200,navy blue,left,4 saland,automatic,diesel
